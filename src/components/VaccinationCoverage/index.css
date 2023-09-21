@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.coverage-con {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.coverage-heading {
+  color: white;
+  font-size: 20px;
+}

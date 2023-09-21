@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.cowin-dash-board {
+  background-color: #161625;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.mini-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.co-win-heading {
+  color: white;
+  font-size: 25px;
+}
+.website-logo-con {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  height: 30px;
+}
+
+.website-heading {
+  color: green;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.image-failure {
+  height: 300px;
+}
+
+.something-wrong-heading {
+  color: white;
+}
